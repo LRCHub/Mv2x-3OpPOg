@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "天鏡のアルデラミン",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2026-02-11T13:21:51.992487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天鏡のアルデラミン",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/01_天鏡のアルデラミン_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天鏡のアルデラミン",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/02_天鏡のアルデラミン_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天鏡のアルデラミン",
+      "artist": "岸田教団 & The 明星ロケッツ",
+      "has_synced": true,
+      "path": "select/03_天鏡のアルデラミン_岸田教団_&_The_明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tenkyō no Alderamin [天鏡のアルデラミン]",
+      "artist": "Kishida Kyōdan & The Akeboshi Rockets [岸田教団＆THE明星ロケッツ]",
+      "has_synced": true,
+      "path": "select/04_Tenkyō_no_Alderamin_[天鏡のアルデラミン]_Kishida_Kyōdan_&_The_Akeboshi_Rockets_[岸田教団&THE明星ロケッツ].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天鏡のアルデラミン",
+      "artist": "Kishida Kyoudan & The Akeboshi Rockets",
+      "has_synced": true,
+      "path": "select/05_天鏡のアルデラミン_Kishida_Kyoudan_&_The_Akeboshi_Rockets.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天鏡のアルデラミン",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_天鏡のアルデラミン_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
